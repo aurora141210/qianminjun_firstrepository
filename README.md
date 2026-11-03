@@ -1,4 +1,4 @@
-﻿# qianminjun_firstrepository
+# qianminjun_firstrepository
 
 我的第一个 Git 仓库，用来练习 Git / GitHub 的基本工作流。
 
